@@ -1,4 +1,4 @@
-# sovereign-stack (Gitea + Nextcloud + OnlyOffice + WireGuard)
+# sovereignty (Gitea + Nextcloud + OnlyOffice + WireGuard)
 
 This repository deploys an SME-friendly, cloud-independent collaboration stack.
 
